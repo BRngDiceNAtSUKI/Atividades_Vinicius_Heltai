@@ -28,7 +28,7 @@ async function extrairReferencias(caminhoArquivo) {
 
   } catch (erro) {
     // Tratamento de erro com chalk
-    console.log(chalk.bgRed.white("❌ Erro ao ler o arquivo:"), erro.message);
+    console.log(chalk.bgRed.white(" Erro ao ler o arquivo:"), erro.message);
   }
 }
 
