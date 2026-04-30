@@ -11,3 +11,4 @@ Loja/Site S.T.A.L.K.E.R(Node.js).
 projeto extDados (Reg Ex).
 TEC PROGRAMAÇÃO II: 
 Prototype Singleton (singleton).
+Projeto Pizzaria ((Bridge)
